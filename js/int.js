@@ -1,1 +1,1 @@
-console.log{"hello, this is our first class")
+console.log("hello, this is our first class")

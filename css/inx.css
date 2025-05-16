@@ -2,7 +2,8 @@ body {
     background-color: darkcyan;
     margin: 10px;
 }
-h1{ text-decoration:center; text-color:red;
+h1{ text-decoration:center; 
+    color:red;
 }
 .size {
     width: auto;
